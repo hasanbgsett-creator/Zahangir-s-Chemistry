@@ -1,5 +1,5 @@
 {
-  "name": "Home of Chemistry",
+  "name": "Zahangir's Chemistry",
   "description": "Standalone premium native app wrapping the Home of Chemistry live dark-themed React dashboard.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

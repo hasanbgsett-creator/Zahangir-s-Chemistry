@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Home of Chemistry"
+rootProject.name = "Zahangir's Chemistry"
 
 include(":app")

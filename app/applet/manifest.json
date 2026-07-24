@@ -1,0 +1,21 @@
+{
+  "name": "Home of Chemistry",
+  "short_name": "Chemistry",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#DB2777",
+  "description": "Zahangir's Chemistry - Learn chemistry online",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
